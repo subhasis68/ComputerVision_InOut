@@ -1,7 +1,7 @@
 # ComputerVision_InOut
 Python code to identify if I am inside the camera or outside.
 
-To run the 
+To run the facerec.py
 
 Install the following packages
 1. Install Python
